@@ -16,6 +16,28 @@ body, h1, h2, h3, h4, h5, h6, p, a, ul, li {
     margin-top: 10px;
 }
 
+.inactive {
+    text-decoration: line-through;
+    color: red;
+}
+
+.inactive .active {
+    text-decoration: line-through;
+    color: red;
+}
+.active li {
+    color: #D1774A;
+    background: rgba(0,0,0,0.1);
+    text-decoration: none;
+}
+.active li:visited {
+    text-decoration: none;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+}
+
 .author {
     font-size: 12px;
     font-weight: bold;
@@ -63,7 +85,17 @@ body, h1, h2, h3, h4, h5, h6, p, a, ul, li {
 }
 
 .side-menu ul li:hover {
-    box-shadow: 3px 0px 5px #e8e8e8;
+    box-shadow: 3px 0px 5px rgba(0,0,0,0.1);
+}
+
+.side-menu ul a:visited {
+    text-decoration: none !important;
+    color: black;
+}
+
+.side-menu ul li a{
+    text-decoration: none;
+    color: black;
 }
 
 .page-wrapper {

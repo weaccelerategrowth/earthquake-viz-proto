@@ -119,6 +119,10 @@ class Test01 extends Component {
                 return 'hsl(' + color[0] + ',' + color[1] + '%,' + color[2] + '%)';
             }</script>`)
         }
+
+        componentWillUnmount() {
+            window.location.reload();
+        }
         render() {
             return (
                     <div style={{
