@@ -1,5 +1,6 @@
 {
   "name": "earthquake-viz-proto",
+  "homepage": "https://weaccelerategrowth.github.io/earthquake-viz-proto",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
