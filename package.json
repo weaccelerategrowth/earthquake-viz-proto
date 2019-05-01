@@ -3,8 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@gumgum/react-script-tag": "0.0.3",
+    "google-maps-react": "^2.0.2",
+    "node-sass": "^4.12.0",
+    "postscribe": "^2.0.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.0"
   },
   "scripts": {
