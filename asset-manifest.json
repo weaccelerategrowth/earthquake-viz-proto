@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/earthquake-viz-proto/static/css/main.7a642beb.chunk.css",
-    "main.js": "/earthquake-viz-proto/static/js/main.58af36c1.chunk.js",
-    "main.js.map": "/earthquake-viz-proto/static/js/main.58af36c1.chunk.js.map",
+    "main.css": "/earthquake-viz-proto/static/css/main.602fd1e4.chunk.css",
+    "main.js": "/earthquake-viz-proto/static/js/main.cebd1094.chunk.js",
+    "main.js.map": "/earthquake-viz-proto/static/js/main.cebd1094.chunk.js.map",
     "runtime~main.js": "/earthquake-viz-proto/static/js/runtime~main.ab181803.js",
     "runtime~main.js.map": "/earthquake-viz-proto/static/js/runtime~main.ab181803.js.map",
-    "static/js/2.86ae3fdd.chunk.js": "/earthquake-viz-proto/static/js/2.86ae3fdd.chunk.js",
-    "static/js/2.86ae3fdd.chunk.js.map": "/earthquake-viz-proto/static/js/2.86ae3fdd.chunk.js.map",
+    "static/js/2.25e12250.chunk.js": "/earthquake-viz-proto/static/js/2.25e12250.chunk.js",
+    "static/js/2.25e12250.chunk.js.map": "/earthquake-viz-proto/static/js/2.25e12250.chunk.js.map",
     "index.html": "/earthquake-viz-proto/index.html",
-    "precache-manifest.e93ce0a6c2f7bf735fae9975c31a0d41.js": "/earthquake-viz-proto/precache-manifest.e93ce0a6c2f7bf735fae9975c31a0d41.js",
+    "precache-manifest.94b25341f15c0e77583b82c28f40df44.js": "/earthquake-viz-proto/precache-manifest.94b25341f15c0e77583b82c28f40df44.js",
     "service-worker.js": "/earthquake-viz-proto/service-worker.js",
-    "static/css/main.7a642beb.chunk.css.map": "/earthquake-viz-proto/static/css/main.7a642beb.chunk.css.map"
+    "static/css/main.602fd1e4.chunk.css.map": "/earthquake-viz-proto/static/css/main.602fd1e4.chunk.css.map"
   }
 }
