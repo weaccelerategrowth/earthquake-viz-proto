@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/earthquake-viz-proto/static/css/main.4713e07b.chunk.css",
+    "main.css": "/earthquake-viz-proto/static/css/main.7a642beb.chunk.css",
     "main.js": "/earthquake-viz-proto/static/js/main.433c8498.chunk.js",
     "main.js.map": "/earthquake-viz-proto/static/js/main.433c8498.chunk.js.map",
     "runtime~main.js": "/earthquake-viz-proto/static/js/runtime~main.ab181803.js",
@@ -8,8 +8,8 @@
     "static/js/2.86ae3fdd.chunk.js": "/earthquake-viz-proto/static/js/2.86ae3fdd.chunk.js",
     "static/js/2.86ae3fdd.chunk.js.map": "/earthquake-viz-proto/static/js/2.86ae3fdd.chunk.js.map",
     "index.html": "/earthquake-viz-proto/index.html",
-    "precache-manifest.19fd7411d3a1866645fdb2c898c2f78a.js": "/earthquake-viz-proto/precache-manifest.19fd7411d3a1866645fdb2c898c2f78a.js",
+    "precache-manifest.cb6f2dd9d8c9a523565b31ac669ef49d.js": "/earthquake-viz-proto/precache-manifest.cb6f2dd9d8c9a523565b31ac669ef49d.js",
     "service-worker.js": "/earthquake-viz-proto/service-worker.js",
-    "static/css/main.4713e07b.chunk.css.map": "/earthquake-viz-proto/static/css/main.4713e07b.chunk.css.map"
+    "static/css/main.7a642beb.chunk.css.map": "/earthquake-viz-proto/static/css/main.7a642beb.chunk.css.map"
   }
 }
