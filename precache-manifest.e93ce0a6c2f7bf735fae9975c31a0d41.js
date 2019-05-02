@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a10141d23cf01df1a1fe6216568571b1",
+    "revision": "8a3a75b491e2774babe0cdae32de3ea2",
     "url": "/earthquake-viz-proto/index.html"
   },
   {
-    "revision": "4256284fba002b85815c",
+    "revision": "9a408e8bc374ae6354e1",
     "url": "/earthquake-viz-proto/static/css/main.7a642beb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/earthquake-viz-proto/static/js/2.86ae3fdd.chunk.js"
   },
   {
-    "revision": "4256284fba002b85815c",
-    "url": "/earthquake-viz-proto/static/js/main.433c8498.chunk.js"
+    "revision": "9a408e8bc374ae6354e1",
+    "url": "/earthquake-viz-proto/static/js/main.58af36c1.chunk.js"
   },
   {
     "revision": "8dca2cdc3b80eba819a7",
