@@ -53,13 +53,13 @@ class Test06 extends Component {
                 var worldMap = g.append('path')
                  .attr('clip-path', 'url(#clip-path)') // attaches the clip path to not draw the map underneath the x axis
                  .datum(topojson.merge(world, world.objects.countries.geometries)) // draws a single land object for the entire map
-                 .attr('class', 'land2')
+                 .attr('class', 'land')
                  .attr('d', path)
                 
                 // Append the World Map Country Borders
                 g.append('path')
                  .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
-                 .attr('class', 'boundry2')
+                 .attr('class', 'boundry')
                  .attr('d', path);
                 
                 // Create the x scale based on the domain of the 24 hour ago object and now

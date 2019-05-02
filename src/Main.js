@@ -29,7 +29,7 @@ class Main extends Component {
                                 <NavLink to="/test-02"><li>2. Linear Gradient Background</li></NavLink>
                                 <NavLink to="/test-03"><li>3. Gradient Mesh Background</li></NavLink>
                                 <NavLink to="/test-04"><li>4. Mapbox Hotspots</li></NavLink>
-                                <NavLink to="/test-05"><li>5. 24hr Live Data</li></NavLink>
+                                <NavLink to="/test-05"><li className="inactive">5. 24hr Live Data</li></NavLink>
                                 <NavLink to="/test-06"><li>6. 24hr Live Data - No Map</li></NavLink>
                                 </ul>
                             </div>
