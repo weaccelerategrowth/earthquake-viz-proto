@@ -11,7 +11,7 @@ class Test03 extends Component {
             <div className="something">
                 <canvas class="mesh" width="100%" height="100%"></canvas>
                 <div class="stuff">
-                    <img className="logo" src="assets/Quake_Logo_COLOUR_wStapline.png" alt=""></img>
+                    <img className="logo" src="assets/Quake_Logo_WHITE_wStrapline.png" alt=""></img>
                     <h2>Animated mesh gradient demo</h2>
                 </div>
                 <div class="controls">
